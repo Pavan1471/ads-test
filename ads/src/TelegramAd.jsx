@@ -36,7 +36,7 @@ const TelegramAd = () => {
 
   const showAd = async () => {
     try {
-      await window.Adsgram.init({ blockId: "int-123" }).show();
+      await window.Adsgram.init({ blockId: "int-8804" }).show();
     } catch (error) {
       console.error("Ad error:", error);
     }
