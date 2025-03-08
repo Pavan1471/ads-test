@@ -34,6 +34,20 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
 }
+.ad-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #0088cc;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.ad-button:hover {
+  background-color: #0077b6;
+}
+
 
 button {
   border-radius: 8px;
