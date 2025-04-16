@@ -11,7 +11,7 @@ export default defineConfig({
                 react(),
                 // Allows using the compilerOptions.paths property in tsconfig.json.
                 // https://www.npmjs.com/package/vite-tsconfig-paths
-                tsconfigPaths(),
+                
                 // Create a custom SSL certificate valid for the local machine.
                 // https://www.npmjs.com/package/vite-plugin-mkcert
                 mkcert(),
